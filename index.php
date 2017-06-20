@@ -6,6 +6,7 @@ Description: The easiest way to create powerful online communities and beautiful
 Version: 1.3.86
 Author: Ultimate Member
 Author URI: http://ultimatemember.com/
+GitHub Plugin URI: https://github.com/alastair38/ultimatemember
 Text Domain: ultimate-member
 Domain Path: /languages
 */
